@@ -1,5 +1,5 @@
 #### Hi there. 👋 I'm graduate of Wrocław University of Science and Technology with a degree in Electronics.
-##### I’m currently working on my own project of grade book. To develop my skills as Backend Developer.
+##### I’m currently working on my own project of grade book. To develop my skills as Backend Developer using Pyhton and Django.
 
 ##### Old projects:
 - Project of web bookstore
