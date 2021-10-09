@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I'm graduate of Wrocław University of Science and Technology with a degree in Electronics.
+- 🌱 I’m currently learning ...
+
 
 <!--
 **MichalB136/MichalB136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
