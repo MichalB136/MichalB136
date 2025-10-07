@@ -1,12 +1,3 @@
-#### Hi there. 👋 I'm graduate from Wrocław University of Science and Technology with Master's degree in Electronics.
-##### I’m currently working on my own project of grade book. To develop my skills as Backend Developer using Pyhton and Django.
-
-##### Old projects:
-- Project of web bookstore
-  - My first project using Django! Devloped by learnig from django documentation and various youtube videos!
-- Some small Raspberry Pi 3 projects
-- My Master’s degree thesis! Title: Inference about systems and processes using intelligent methods augmented with an expert knowledge.
-
 <!--
 **MichalB136/MichalB136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
